@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Development, Machine Learning and Data Analysis. 
 - 🌱 I’m currently learning Web App development using MERN Stack.
 - 💞️ I’m looking to collaborate on Front End Web development or on Machine Leaning.
-- 📫 How to reach me 
 - 💬 possess good knowledge in Data Structures and Algorithms, Computer Networks, Operating systems, DBMS, Data Mining.
 
  
